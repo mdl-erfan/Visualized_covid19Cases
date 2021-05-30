@@ -7,7 +7,6 @@ import datetime
 from urllib.request import urlopen
 import matplotlib
 import matplotlib.pyplot as plot
-from simpleimage import SimpleImage
 
 URL = "https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetIllinoisCases"
 
